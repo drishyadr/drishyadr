@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drishyadr
-- 👀 I’m interested in coding ..
+-.
 - 🌱 I’m currently learning b tech 1st year computer science ...
-- 💞️ I’m looking to collaborate on ...
+- ..
 - 📫 How to reach me email@drishyadinojr1824@gmail.com
 
 
