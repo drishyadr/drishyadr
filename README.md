@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drishyadr
 -.
-- 🌱 I’m currently learning b tech 1st year computer science ...
+- 🌱 I’m currently learning b tech 2nd year computer science ...
 - ..
 - 📫 How to reach me email@drishyadinojr1824@gmail.com
 
